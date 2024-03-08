@@ -1,4 +1,4 @@
-1) Клонуємо репозиторій: **git clone**
+1) Клонуємо репозиторій: **git clone** https://github.com/andrewpechersky/GOITWEB_HW01
 2) Відкриваємо консоль та створюємо віртуальне оточення: **python -m venv venv**
 3) Запускаємо віртуальне оточення: **venv/sctipts/activate**
 4) Інсталюємо пакет: **pip install e .**
